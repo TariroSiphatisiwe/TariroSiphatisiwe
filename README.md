@@ -14,15 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.postimg.cc/8CfzFK8P/Cream-Gradient-Modern-Cooking-With-Chad-Twitter-Header.jpg"/></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.dropbox.com/s/hemp5nvdxpcca2x/Welcome%20to%20my%20corner%20of%20the%20Internet.png?dl=0"/></a>
 
 ✨I'm a Fullstack Engineer who combines problem-solving  with aesthetic designs. 
 
 ✨I have a passion for learning and sharing my knowledge through creative content on my twitter space. 
 
-✨I enjoy doing voluntary work with different organisations to help uplift minority groups.
-
-✨Lover of music, photography, and nature.
-
-✨Next Milestone : Artificial Inteligence and Machine Learning!! Whoop Whoop 
 
