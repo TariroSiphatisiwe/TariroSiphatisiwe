@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://postimg.cc/v4JQmcWf"/></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.postimg.cc/5t0jnzy7/Welcome-to-my-corner-of-the-Internet.png"/></a>
 
 ✨I'm a Fullstack Engineer who combines problem-solving  with aesthetic designs. 
 
