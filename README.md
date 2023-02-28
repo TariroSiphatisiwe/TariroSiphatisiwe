@@ -1,4 +1,4 @@
-### Heyyyyyy there  👋
+### Hi 👋
 
 <!--
 **TariroSiphatisiwe/TariroSiphatisiwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.postimg.cc/QMz8xnms/Welcome-to-my-corner-of-the-Internet-1.png"/></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.postimg.cc/YSQ5Jr95/Welcome-to-my-corner-of-the-Internet-2.png"/></a>
 
 ✨I'm a Fullstack Software Developer and I combine problem-solving  with aesthetic and user friendly Designs. 
 
