@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.postimg.cc/QMz8xnms/Welcome-to-my-corner-of-the-Internet-1.png"/></a>
 
-✨I'm a Fullstack Engineer who combines problem-solving  with aesthetic designs. 
+✨I'm a Fullstack Software Developer and I combine problem-solving  with aesthetic and user friendly Designs. 
 
-✨I have a passion for learning and sharing my knowledge through creative content on my twitter space. 
+✨I have a passion for learning and sharing my knowledge, so I create content around tech topics and I share it on my twitter account, feel free to check it out! 
 
 
